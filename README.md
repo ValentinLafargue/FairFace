@@ -21,6 +21,7 @@ https://drive.google.com/drive/folders/1u9feT7izYTvs8uqhgKtIAMXhsXuAo0hh?usp=sha
 
 If you find this repo useful in your research, please consider citing our paper.
 
+```
 @misc{lafargue2025fairnessdetailsface,
       title={Fairness is in the details : Face Dataset Auditing}, 
       author={V. Lafargue and E. Claeys and J. M. Loubes},
@@ -30,5 +31,6 @@ If you find this repo useful in your research, please consider citing our paper.
       primaryClass={stat.AP},
       url={https://arxiv.org/abs/2504.08396}, 
 }
+```
 
 
