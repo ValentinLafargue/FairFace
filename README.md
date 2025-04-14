@@ -7,8 +7,8 @@ The paper is available here : https://arxiv.org/abs/2504.08396
 ## Dataset
 
 The CelebA dataset and the Generated Photos academic dataset are available in their respective owner's website:
-Generated Photos academic dataset : https://generated.photos/solutions/academic-research
-CelebA : https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+- Generated Photos academic dataset : https://generated.photos/solutions/academic-research
+- CelebA : https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 Our Fitzpatrick V and gender labels are directly available above.
 
