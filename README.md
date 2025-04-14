@@ -2,7 +2,7 @@
 
 ## Paper
 
-The paper will be available soon.
+The paper is available here : https://arxiv.org/abs/2504.08396
 
 ## Dataset
 
@@ -20,3 +20,15 @@ https://drive.google.com/drive/folders/1u9feT7izYTvs8uqhgKtIAMXhsXuAo0hh?usp=sha
 ## Cite
 
 If you find this repo useful in your research, please consider citing our paper.
+
+@misc{lafargue2025fairnessdetailsface,
+      title={Fairness is in the details : Face Dataset Auditing}, 
+      author={V. Lafargue and E. Claeys and J. M. Loubes},
+      year={2025},
+      eprint={2504.08396},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2504.08396}, 
+}
+
+
